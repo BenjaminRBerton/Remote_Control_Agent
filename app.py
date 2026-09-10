@@ -45,7 +45,7 @@ def serve_sound(filename):
 
 port = 5670
 agent_name = "Remote_Control_Agent"
-device = "Ethernet"
+device = "wlp0s20f3"
 #device = "A7500_NETGEAR" 
 verbose = False
 is_interrupted = False
